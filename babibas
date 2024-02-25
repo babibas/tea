@@ -1,0 +1,6 @@
+# https://tea.xyz/babibas
+---
+version: 1.0.0
+codeOwners:
+  - '0x7Ce3219F3fC395c086d5d839F56A551825750Cc4'
+quorum: 1
